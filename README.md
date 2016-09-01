@@ -1,3 +1,7 @@
+This is following along with very clear [roll-your-own-auth tutorial](https://emberigniter.com/implementing-authentication-with-ember-services/)
+
+---
+
 # Secretcodez
 
 This README outlines the details of collaborating on this Ember application.
